@@ -1,4 +1,3 @@
-
 import { SUPABASE_URL, SUPABASE_ANON_KEY } from './config.js';
 import { store } from './store.js';
 
